@@ -18,7 +18,7 @@
 
 /* intro */
 @import url(../blocks/intro/intro.css);
-@import url(../blocks/intro/__list-bold/);
+@import url(../blocks/intro/__list-bold/intro__list-bold.css);
 @import url(../blocks/intro/__list-text/intro__list-text.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__subtitle/intro__subtitle.css);
@@ -31,7 +31,7 @@
 
 /* place */
 @import url(../blocks/place/place.css);
-@import url(../blocks/place/__column/place__column.css);
+@import url(../blocks/place/__text/place__text.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__link/place__link.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
@@ -41,6 +41,7 @@
 
 /* cover */
 @import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__container/cover__container.css);
 @import url(../blocks/cover/__image/cover__image.css);
 @import url(../blocks/cover/__overlay/cover__overlay.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
@@ -54,3 +55,6 @@
 
 /* modefiers */
 @import url(../blocks/header/__language-link/header__language-link_active.css);
+
+/* mix */
+@import url(../blocks/link-hover/link-hover.css);

@@ -5,6 +5,6 @@
   margin: 0;
 }
 
-.header__links:not(:last-child){
+.header__links li:not(:last-child){
   margin-right: 18px;
 }
