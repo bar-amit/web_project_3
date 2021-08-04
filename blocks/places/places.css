@@ -3,3 +3,21 @@
   flex-direction: column;
   width: 984px;
 }
+
+@media screen and (max-width: 1080px){
+  .places {
+    width: calc(100% - 48px * 2);
+  }
+}
+
+@media screen and (max-width: 864px){
+  .places {
+    width: calc(100% - 24px * 2);
+  }
+}
+
+@media screen and (max-width: 670px){
+  .places {
+    width: calc(100% - 32px);
+  }
+}

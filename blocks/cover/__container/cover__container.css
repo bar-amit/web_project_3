@@ -1,6 +1,6 @@
 .cover__container {
-  width: 1184px;
-  height: 740px;
+  width: 100%;
+  height: calc(100% - 92px * 2);
   position: absolute;
   top: 92px;
   left: 0;

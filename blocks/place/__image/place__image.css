@@ -3,3 +3,33 @@
   height: 460px;
   object-fit: cover;
 }
+
+@media screen and (max-width: 1080px){
+  .place__image {
+    width: 440px;
+    height: 440px;
+  }
+}
+
+@media screen and (max-width: 864px){
+  .place__image {
+    width: 340px;
+    height: 340px;
+  }
+}
+
+@media screen and (max-width: 670px){
+  .place__image {
+    width: 460px;
+    height: 460px;
+  }
+}
+
+@media screen and (max-width: 492px){
+  .place__image {
+    position: relative;
+    left: -16px;
+    width: 100vw;
+    height: 100vw;
+  }
+}

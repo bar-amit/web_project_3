@@ -5,3 +5,23 @@
   align-items: center;
 
 }
+
+
+@media screen and (max-width: 1080px){
+  .lead {
+    width: calc(100% - 48px * 2);
+  }
+}
+
+@media screen and (max-width: 864px){
+  .lead {
+    width: 100%;
+  }
+}
+
+
+@media screen and (max-width: 670px){
+  .lead {
+    padding-top: 50px;
+  }
+}

@@ -8,3 +8,16 @@
 .place__paragraph:not(:last-child) {
   margin-bottom: 25px;
 }
+
+@media screen and (max-width: 864px){
+  .place__title {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 670px){
+  .place__title {
+    font-size: 32px;
+    line-height: 26px;
+  }
+}

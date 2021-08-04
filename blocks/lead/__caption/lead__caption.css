@@ -8,3 +8,9 @@
   text-transform: uppercase;
   letter-spacing: 0.15em;
 }
+
+@media screen and (max-width: 864px){
+  .lead__caption {
+    margin-left: 24px;
+  }
+}

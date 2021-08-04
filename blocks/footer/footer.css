@@ -3,3 +3,22 @@
   display: flex;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 1280px){
+  .footer {
+    width: calc(100% - 48px * 2);
+  }
+}
+
+@media screen and (max-width: 864px){
+  .footer {
+    width: calc(100% - 48px);
+  }
+}
+
+@media screen and (max-width: 670px){
+  .footer {
+    width: calc(100% - 32px);
+    flex-direction: column;
+  }
+}

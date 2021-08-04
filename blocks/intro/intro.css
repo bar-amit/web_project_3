@@ -2,3 +2,23 @@
   padding-top: 92px;
   width: 984px;
 }
+
+@media screen and (max-width: 1080px){
+  .intro {
+    width: calc(100% - 48px * 2);
+  }
+}
+
+@media screen and (max-width: 864px){
+  .intro {
+    padding-top: 88px;
+    width: calc(100% - 48px);
+  }
+}
+
+@media screen and (max-width: 670px){
+  .intro {
+    padding-top: 64px;
+    width: calc(100% - 32px);
+  }
+}

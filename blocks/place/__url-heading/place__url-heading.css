@@ -8,3 +8,9 @@
   line-height: 1.7;
   letter-spacing: 0.2em;
 }
+
+@media screen and (max-width: 864px){
+  .place__url-heading {
+    line-height: 1;
+  }
+}

@@ -1,8 +1,22 @@
 .intro__subtitle {
-  max-width: 690px;
+  width: 690px;
   margin: 0;
   margin-bottom: 32px;
   font-weight: 400;
   font-size: 24px;
   line-height: 34px;
+}
+
+@media screen and (max-width: 864px){
+  .intro__subtitle {
+    width: 100%;
+  }
+}
+
+
+@media screen and (max-width: 670px){
+  .intro__subtitle {
+    font-size: 24px;
+    line-height: 30px;
+  }
 }
