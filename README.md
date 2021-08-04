@@ -12,7 +12,7 @@ This is a project about traveling across the US. We've made it so all the elemen
 
 **Figma**
 
-The layout for this project was built from a (Figma)[https://figma.com/] design.
+The layout for this project was built from a [Figma](https://figma.com/) design.
 
 **Images**
 
@@ -22,4 +22,4 @@ Good luck and have fun!
 
 **GitHub Pages**
 
-This project is available live in (GitHub pages)[https://bar-amit.github.io/web_project_3/].
+This project is available live in [GitHub pages](https://bar-amit.github.io/web_project_3/).
