@@ -54,7 +54,7 @@
 @import url(../blocks/footer/__list/footer__list.css);
 
 /* modefiers */
-@import url(../blocks/header/__language-link/header__language-link_active.css);
+@import url(../blocks/header/__language-link/_active/header__language-link_active.css);
 
 /* mix */
 @import url(../blocks/link-hover/link-hover.css);
