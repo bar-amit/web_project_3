@@ -3,7 +3,6 @@
   top: 92px;
   left: 0;
   width: 100%;
-  /* height: calc(100% - 92px * 2); */
   object-fit: cover;
   z-index: 0;
 }
