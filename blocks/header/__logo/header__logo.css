@@ -5,6 +5,7 @@
 
 @media screen and (max-width: 670px){
   .header__logo {
+    content: url(../../../images/logo_small.svg);
     width: 156px;
     height: 36px;
   }
