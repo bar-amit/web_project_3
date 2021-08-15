@@ -12,10 +12,3 @@
     width: 100%;
   }
 }
-
-@media screen and (max-width: 670px){
-  .intro__text {
-    font-size: 16px;
-    line-height: 1.63;
-  }
-}

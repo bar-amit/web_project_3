@@ -21,3 +21,9 @@
     width: calc(100% - 32px);
   }
 }
+
+@media screen and (max-width: 492px){
+  .places {
+    width: 100%;
+  }
+}
